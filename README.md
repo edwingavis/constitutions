@@ -1,2 +1,2 @@
 # constitutions
-collecting plain text from comparative constitutions project's api
+Collecting plain text from comparative constitutions project's api. 
